@@ -1,0 +1,6 @@
+Comercio,Barrio,Suites,Area,Valor,Impuesto,Descuento,Churn
+Plaza,Centro,2,90,4500,450,200,0
+Mercado,Sur,1,75,3800,380,100,1
+Supermercado,Norte,3,120,4200,420,150,0
+Plaza,Centro,0,60,5000,500,300,1
+Mercado,Sur,2,95,3500,350,50,0
